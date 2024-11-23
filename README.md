@@ -2,7 +2,6 @@
 
 
 <!--
-**BelenIFigueroa/BelenIFigueroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🌟 Desarrolladora Backend en formación | Estudiante de la UTN  
 🚀 Apasionada por aprender y crear soluciones tecnológicas eficientes  
